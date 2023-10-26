@@ -21,4 +21,4 @@
 </ul>
 <h3>Data Source</h3>
 <p>You can find the dataset on Kaggle at the following link:
-  <a href="https://www.kaggle.com/datasets/ammaraahmad/us-ecommerce-record-2020" target="_blank>source_kaggle.com</a>.</p>
+  <a href="https://www.kaggle.com/datasets/ammaraahmad/us-ecommerce-record-2020" target="_blank">source_kaggle.com</a>.</p>
